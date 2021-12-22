@@ -1,0 +1,33 @@
+{
+   "name":"1",
+   "symbol":"SOLCHICKS",
+   "description":"From the SolChicks official collaboration with Fractal. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+   "seller_fee_basis_points":500,
+   "image":"1.png",
+   "animation_url":"",
+   "external_url":"https://www.solchicks.io/",
+   "attributes":[
+      {
+         "trait_type":"base",
+         "value":"SolChick"
+      },
+      {
+         "trait_type":"rarity",
+         "value":"Common"
+      }
+   ],
+   "collection":{
+      "name":"SolChicks",
+      "family":"SolChicks"
+   },
+   "properties":{
+      "creators":[
+         {
+            "address":"5hW2Y4KGNuo8Bh6ReD2D8VT3TTcBZSsxxJmnunvRmWc9",
+            "share":100
+         }
+      ]
+   },
+   "hashString":"1:none,2:SolChick,3:none,4:none,5:none,6:none,7:none,",
+   "rarityScore":21250
+}
